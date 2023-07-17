@@ -1,0 +1,27 @@
+20230329	16:45:14	c0b16571-8750-424d-9fe1-0866310d7a30	TypeError: Cannot read properties of undefined (reading 'toString')
+20230330	20:37:24	a0556697-904b-47fd-a960-a9853428957b	TypeError: Cannot read properties of undefined (reading 'split')
+20230330	20:44:40	a06c83f5-ac8f-40d0-9b27-29377690e5b5	TypeError: Cannot read properties of undefined (reading 'username')
+20230330	20:45:18	37103165-5089-40b7-9795-61fee85dc58c	TypeError: Cannot read properties of undefined (reading 'username')
+20230330	20:49:22	fd43c008-faad-456f-b1f0-b1d50ed63447	TypeError: Cannot read properties of undefined (reading 'username')
+20230330	20:50:02	fb7127d8-36d9-420e-95bb-192a3502d873	TypeError: Cannot read properties of undefined (reading 'username')
+20230330	20:50:03	785c32a1-3ec0-405c-8b5e-3d35c835095d	TypeError: Cannot read properties of undefined (reading 'username')
+20230331	21:45:06	3e683938-4b8c-4669-a100-c52254cdb1f3	TypeError: Cannot read properties of undefined (reading 'username')
+20230331	21:46:39	62c52a1d-0173-4665-b952-ca919f319b5e	TypeError: Cannot read properties of undefined (reading 'username')
+20230331	21:48:43	167bcd51-b17c-421c-b0a1-022e9f3255e4	TypeError: Cannot read properties of undefined (reading 'username')
+20230402	17:57:06	939f92f7-6711-420f-8c3a-9de524a6631f	TypeError: authHeader?.startWith is not a function
+20230404	19:29:09	26618237-11e2-48b8-a7ed-9629b4204673	Error: Not allowed by CORS
+20230603	00:19:46	c816a8b2-34bc-47ff-8f70-9da110ff42c5	Error: Not allowed by CORS
+20230603	00:20:38	537f67c4-ed2c-49a2-9442-0741999612f0	Error: Not allowed by CORS
+20230603	00:20:44	013d4db0-afa0-487f-83a3-b35d733ce32c	Error: Not allowed by CORS
+20230603	00:23:00	4b0567b4-159b-4ad8-8384-9a14ad90a2b7	Error: Not allowed by CORS
+20230603	00:23:07	9f389904-a65b-4775-a1ba-90500d4f24f8	Error: Not allowed by CORS
+20230603	00:24:13	8547ef10-5fb8-4314-82ee-55469ec0e7d9	Error: Not allowed by CORS
+20230603	15:21:57	64dce9fc-f0d2-4583-a308-44909ffdec15	Error: Not allowed by CORS
+20230603	15:23:18	b82ceb19-65da-41f9-8793-ab063f3a6502	Error: Not allowed by CORS
+20230606	18:13:44	e4bc96b9-94f5-43bd-ad13-9c8b1b56d003	ReferenceError: data is not defined
+20230614	22:19:33	bbb913ee-55c5-43c5-bafa-c409ba40f413	ReferenceError: data is not defined
+20230615	10:21:51	bca56a1f-e757-4cad-8134-4d8bea4c8414	ReferenceError: data is not defined
+20230615	10:25:10	d8f664ee-af8d-4ae8-970b-f70c6ac28fce	ReferenceError: data is not defined
+20230615	19:26:46	847cec2e-a758-499e-8530-10de3a691103	ReferenceError: data is not defined
+20230615	19:26:49	ebca827f-8856-4df2-9cba-37685999e267	ReferenceError: data is not defined
+20230615	19:26:51	8f29ffd5-924b-4617-9a18-52cfc793acd0	ReferenceError: data is not defined
